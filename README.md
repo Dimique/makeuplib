@@ -1,5 +1,7 @@
-<!--- d1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview 
-d2: 1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview --->
+--- 
+d1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview 
+d2: 1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview 
+---
 
 # MakeupLib
 ## Модуль 1. Введение
