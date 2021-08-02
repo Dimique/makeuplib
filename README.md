@@ -1,8 +1,10 @@
+<!--- driveId1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview --->
+
 # MakeupLib
 ## Модуль 1. Введение
 ### Урок 1. Организация рабочего места.
 
-
+{% include googleDrivePlayer.html id=page.driveId1 %}
 
 * Найди и подготовь своё идеальное рабочее место. И не забудь про освещение.
 
