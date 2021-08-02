@@ -1,4 +1,5 @@
-<!--- d1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview --->
+<!--- d1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview 
+d2: 1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview --->
 
 # MakeupLib
 ## Модуль 1. Введение
@@ -9,6 +10,9 @@
 * Найди и подготовь своё идеальное рабочее место. И не забудь про освещение.
 
 ### Урок 2. Обзор косметики (хочу-могу).
+
+{% include googleDrivePlayer.html id=page.d2 %}
+
 * Собери необходимую для начала работы косметичку исходя из моих рекомендаций.
 
 ### Урок 3. Разбор кистей (хочу-могу).
