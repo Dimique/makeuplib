@@ -20,7 +20,7 @@ d3: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 
 ### Урок 3. Разбор кистей (хочу-могу).
 
-{% include googleDrivePlayer.html id=page.d3 %}
+
 
 * Подготовь необходимые кисти (сегмент не имеет значения).
 
