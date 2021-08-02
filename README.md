@@ -8,19 +8,19 @@ d3: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 ## Модуль 1. Введение
 ### Урок 1. Организация рабочего места.
 
-{% include googleDrivePlayer.html id=page.d1 %}
+{% include googleDrivePlayer.html id="1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview" %}
 
 * Найди и подготовь своё идеальное рабочее место. И не забудь про освещение.
 
 ### Урок 2. Обзор косметики (хочу-могу).
 
-{% include googleDrivePlayer.html id=page.d2 %}
+{% include googleDrivePlayer.html id="1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview" %}
 
 * Собери необходимую для начала работы косметичку исходя из моих рекомендаций.
 
 ### Урок 3. Разбор кистей (хочу-могу).
 
-
+{% include googleDrivePlayer.html id="0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview" %}
 
 * Подготовь необходимые кисти (сегмент не имеет значения).
 
