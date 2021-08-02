@@ -13,7 +13,7 @@ d2: 1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview
 
 ### Урок 2. Обзор косметики (хочу-могу).
 
-{% include googleDrivePlayer.html id=page.d2 %}
+<!--- {% include googleDrivePlayer.html id=page.d2 %} --->
 
 * Собери необходимую для начала работы косметичку исходя из моих рекомендаций.
 
