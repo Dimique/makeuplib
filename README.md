@@ -1,13 +1,14 @@
 <!--- 
 d1: 1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ/preview 
 d2: 1K7SAKpzQW6lb9NOTdHmGa9iZc4LKkMh8/preview 
+driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 --->
 
 # MakeupLib
 ## Модуль 1. Введение
 ### Урок 1. Организация рабочего места.
 
-{% include googleDrivePlayer.html id=1deMYBEZVL6qOvLkO3BV-0AHiX2r7NcsZ %}
+{% include googleDrivePlayer.html id=page.driveId %}
 
 * Найди и подготовь своё идеальное рабочее место. И не забудь про освещение.
 
